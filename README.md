@@ -1,4 +1,4 @@
-Example Output
+Example Output:
 
 Bitte Zahl eingeben:42
 
